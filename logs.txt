@@ -1,0 +1,17 @@
+--2022-12-11 12:00:54--  https://docs.google.com/spreadsheets/d/13sjYPtkIxm79vFJ8Mz1uQJ94AIi8n7FoLCokQpN8wo8/export?format=csv&gid=0
+Resolving docs.google.com (docs.google.com)... 2404:6800:4006:804::200e, 142.250.66.238
+Connecting to docs.google.com (docs.google.com)|2404:6800:4006:804::200e|:443... connected.
+HTTP request sent, awaiting response... 307 Temporary Redirect
+Location: https://doc-14-04-sheets.googleusercontent.com/export/2950bjfoefl9ijupse0qdqfgno/8ll77rnb7ceo5e2c5ghovuusmk/1670713255000/108305955955408989203/*/13sjYPtkIxm79vFJ8Mz1uQJ94AIi8n7FoLCokQpN8wo8?format=csv&gid=0 [following]
+Warning: wildcards not supported in HTTP.
+--2022-12-11 12:00:55--  https://doc-14-04-sheets.googleusercontent.com/export/2950bjfoefl9ijupse0qdqfgno/8ll77rnb7ceo5e2c5ghovuusmk/1670713255000/108305955955408989203/*/13sjYPtkIxm79vFJ8Mz1uQJ94AIi8n7FoLCokQpN8wo8?format=csv&gid=0
+Resolving doc-14-04-sheets.googleusercontent.com (doc-14-04-sheets.googleusercontent.com)... 2404:6800:4006:814::2001, 142.250.204.1
+Connecting to doc-14-04-sheets.googleusercontent.com (doc-14-04-sheets.googleusercontent.com)|2404:6800:4006:814::2001|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/csv]
+Saving to: ‘data.csv’
+
+     0K                                                        29.5M=0s
+
+2022-12-11 12:00:56 (29.5 MB/s) - ‘data.csv’ saved [483]
+
